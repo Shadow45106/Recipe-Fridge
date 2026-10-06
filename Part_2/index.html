@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chewy&display=swap" rel="stylesheet">
+    <script src="app.js" defer></script>        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <title>Recipe Fridge</title>
+</head>
+
+<body>
+    <header>
+        <h1>Recipe Fridge</h1>
+        <div>
+        <a href="">Recipes</a>
+        <a href="">About us</a>
+        <a href="">Contact</a>
+        </div>
+
+    </header>
+    <main>
+        <h2>Our Favorite Recipes</h2>
+        <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+        <form action="">
+            <p>Add new recipe</p>
+            <div class="form-row">
+                <label for="name">Name: </label>
+                <input type="text" name="name" id="name">
+            </div>
+            <br>
+            <div class="form-row">
+                <label for="cuisine">Cuisine: </label>
+                <input type="text" name="cuisine" id="cuisine">
+            </div>
+            <br>
+            <div class="form-row">
+                <label for="time">Cooking Time: </label>
+                <input type="text" name="time" id="time">
+            </div>
+            <br>
+            <div class="form-row">
+                <label for="ingredients">Ingredients (put each ingredient on a new line): </label>
+                <textarea name="ingredients" id="ingredients"></textarea>
+            </div>
+            <br>
+            <div class="form-row">
+                <label for="instructions">Instructions (put each step on a new line): </label>
+                <textarea name="instructions" id="instructions"></textarea>
+            </div>
+            <br>
+            <input type="submit" value="Add Recipe">
+        </form>
+
+
+        <ul id="recipe-list">
+
+
+        </ul>
+    </main>
+    <footer>
+        <a href="">About</a>
+        <a href="">Contact</a>
+        <a href="">Terms of Service</a>
+    </footer>
+</body>
+
+</html>

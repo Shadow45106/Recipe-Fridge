@@ -1,0 +1,95 @@
+header {
+    background-color: rgb(243, 82, 8);
+    color: black;
+    padding: 1rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+main {
+    padding: 1rem;
+}
+   
+body {
+    background-color: #f8f8f8;  
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: rgb(243, 90, 8);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}       
+
+h1 {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header a {
+    text-decoration: none;
+    color: #f8f8f8;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    font-size: 2vh;
+}
+
+header a:hover {
+    background-color: #f8f8f8;
+    color: rgb(243, 82, 8);
+    border-radius: 4px;
+}
+
+header div {
+    display: flex;
+    gap: 1rem;
+}
+
+form {
+    max-width: 600px;
+    margin: 24px auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    font-family: "Chewy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+    .form-row {
+        flex-direction: column;
+        width: 80%;
+        margin: 24px auto;
+    }
+}
+
+#myChart {
+    margin: 24px auto;
+    display: block;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

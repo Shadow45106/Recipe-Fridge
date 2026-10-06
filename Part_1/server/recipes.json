@@ -1,0 +1,491 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "time": "30 minutes",
+        "cuisine": "Italian",
+        "ingredients": [
+            "200g spaghetti",
+            "2 large eggs",
+            "100g grated Parmesan cheese",
+            "150g bacon, chopped",
+            "2 cloves garlic, minced",
+            "1/2 teaspoon black pepper",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions.",
+            "In a bowl, whisk eggs and grated Parmesan cheese.",
+            "Cook bacon in a pan until crispy, then add minced garlic.",
+            "Drain spaghetti and add it to the pan with bacon and garlic.",
+            "Remove from heat, add the egg and cheese mixture, and toss quickly to coat the spaghetti.",
+            "Season with black pepper and salt to taste.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "time": "1 hour",
+        "cuisine": "Indian",
+        "ingredients": [
+            "500g chicken breast, cut into pieces",
+            "200g yogurt",
+            "400g tomato puree",
+            "1 large onion, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "1 tablespoon garam masala",
+            "1 teaspoon turmeric",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "100ml cream",
+            "2 tablespoons oil",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Marinate chicken in yogurt, garlic, ginger, and spices for 30 minutes.",
+            "Heat oil in a pan and cook the marinated chicken until browned.",
+            "Remove chicken and sauté chopped onions in the same pan.",
+            "Add tomato puree, spices, and cook until the mixture thickens.",
+            "Add the chicken back to the pan and simmer for 15 minutes.",
+            "Stir in cream and cook for another 5 minutes.",
+            "Serve with rice or naan."
+        ]
+    },
+    {
+        "name": "Chocolate Chip Cookies",
+        "time": "25 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "250g flour",
+            "200g butter, softened",
+            "150g sugar",
+            "150g brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "200g chocolate chips"
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "In a bowl, cream together butter, sugar, and brown sugar.",
+            "Beat in eggs and vanilla extract.",
+            "Mix in flour, baking soda, and salt.",
+            "Fold in chocolate chips.",
+            "Drop spoonfuls of dough onto a baking sheet.",
+            "Bake for 10-12 minutes or until golden brown.",
+            "Let cool before serving."
+        ]
+    },
+    {
+        "name": "cereal",
+        "cuisine": "N/A",
+        "time": "2 secs",
+        "ingredients": [
+            "milk",
+            "cereal",
+            "chocolate (optional)"
+        ],
+        "steps": [
+            "mix all 3 ingredients",
+            "Enjoy!"
+        ]
+    },
+    {
+        "name": "Pancakes",
+        "time": "20 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "3 1/2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 tablespoon white sugar",
+            "1 1/4 cups milk",
+            "1 egg",
+            "3 tablespoons butter, melted"
+        ],
+        "steps": [
+            "In a large bowl, sift together the flour, baking powder, salt, and sugar.",
+            "Make a well in the center and pour in the milk, egg, and melted butter; mix until smooth.",
+            "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+            "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+            "Brown on both sides and serve hot."
+        ]
+    },
+    {
+        "name": "Beef Tacos",
+        "time": "25 minutes",
+        "cuisine": "Mexican",
+        "ingredients": [
+            "500g ground beef",
+            "1 packet taco seasoning",
+            "1/2 cup water",
+            "8 hard taco shells",
+            "1 cup shredded lettuce",
+            "1/2 cup diced tomatoes",
+            "1/2 cup shredded cheddar cheese",
+            "Sour cream and salsa for topping"
+        ],
+        "steps": [
+            "Brown ground beef in a skillet over medium-high heat. Drain excess fat.",
+            "Stir in taco seasoning and water. Simmer for 5 minutes until thickened.",
+            "Warm taco shells in the oven according to package directions.",
+            "Fill shells with beef mixture.",
+            "Top with lettuce, tomatoes, cheese, sour cream, and salsa."
+        ]
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "time": "20 minutes",
+        "cuisine": "Chinese",
+        "ingredients": [
+            "2 cups broccoli florets",
+            "1 bell pepper, sliced",
+            "1 carrot, julienned",
+            "1/2 cup snow peas",
+            "2 tbsp soy sauce",
+            "1 tbsp oyster sauce",
+            "1 tsp sesame oil",
+            "1 tbsp vegetable oil",
+            "1 tbsp minced ginger",
+            "2 cloves garlic, minced"
+        ],
+        "steps": [
+            "Mix soy sauce, oyster sauce, and sesame oil in a small bowl.",
+            "Heat vegetable oil in a wok or large skillet over high heat.",
+            "Add garlic and ginger, cooking for 30 seconds until fragrant.",
+            "Add all vegetables and stir-fry for 5-7 minutes until tender-crisp.",
+            "Pour the sauce over the vegetables and toss to coat evenly.",
+            "Serve hot, optionally over rice or noodles."
+        ]
+    },
+    {
+        "name": "Caprese Salad",
+        "time": "10 minutes",
+        "cuisine": "Italian",
+        "ingredients": [
+            "3 large ripe tomatoes, sliced",
+            "250g fresh mozzarella cheese, sliced",
+            "1 bunch fresh basil leaves",
+            "2 tbsp extra virgin olive oil",
+            "1 tbsp balsamic glaze",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "On a large platter, alternate layers of tomato and mozzarella slices.",
+            "Tuck fresh basil leaves between the tomato and cheese slices.",
+            "Drizzle generously with extra virgin olive oil and balsamic glaze.",
+            "Sprinkle with salt and freshly ground black pepper.",
+            "Serve immediately at room temperature."
+        ]
+    },
+    {
+        "name": "Chicken Noodle Soup",
+        "time": "30 minutes",
+        "cuisine": "Chinese",
+        "ingredients": [
+            "1 lb chicken breast, cubed",
+            "2 cups chicken broth",
+            "1 cup egg noodles",
+            "1 carrot, sliced",
+            "1 celery stalk, sliced",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 tsp dried thyme",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "In a large pot, combine chicken broth and chicken cubes. Bring to a boil.",
+            "Add egg noodles and cook according to package directions.",
+            "In a separate pan, sauté carrot, celery, onion, and garlic until softened.",
+            "Add the sautéed vegetables to the pot with the chicken and noodles.",
+            "Stir in thyme and season with salt and pepper.",
+            "Simmer for 5 more minutes and serve hot."
+        ]
+    },
+    {
+        "name": "Guacamole",
+        "time": "10 minutes",
+        "cuisine": "Mexican",
+        "ingredients": [
+            "3 ripe avocados",
+            "1 lime, juiced",
+            "1/2 teaspoon salt",
+            "1/2 cup diced onion",
+            "3 tablespoons chopped fresh cilantro",
+            "2 roma tomatoes, diced",
+            "1 teaspoon minced garlic",
+            "1 pinch ground cayenne pepper (optional)"
+        ],
+        "steps": [
+            "In a medium bowl, mash together the avocados, lime juice, and salt.",
+            "Mix in onion, cilantro, tomatoes, and garlic.",
+            "Stir in cayenne pepper if desired.",
+            "Refrigerate 1 hour for best flavor, or serve immediately."
+        ]
+    },
+    {
+        "name": "fried rice",
+        "time": "20 minutes",
+        "cuisine": "Chinese",
+        "ingredients": [
+            "2 cups cooked rice (preferably cold)",
+            "2 tablespoons vegetable oil",
+            "1 small onion, diced",
+            "2 cloves garlic, minced",
+            "1 cup mixed vegetables (peas, carrots, corn)",
+            "2 eggs, beaten",
+            "3 tablespoons soy sauce",
+            "Salt and pepper to taste",
+            "Green onions for garnish"
+        ],
+        "steps": [
+            "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+            "Add diced onion and minced garlic, sauté until fragrant.",
+            "Add mixed vegetables and cook for 2-3 minutes until tender.",
+            "Push the vegetables to one side of the skillet and pour in the beaten eggs. Scramble until fully cooked.",
+            "Add the cold cooked rice to the skillet, breaking up any clumps.",
+            "Pour soy sauce over the rice and stir everything together until well combined and heated through.",
+            "Season with salt and pepper to taste.",
+            "Garnish with chopped green onions before serving."
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "time": "1 hour",
+        "cuisine": "Italian",
+        "ingredients": [
+            "1 pizza dough (store-bought or homemade)",
+            "1/2 cup tomato sauce",
+            "200g fresh mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "2 tablespoons olive oil",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Preheat oven to 475°F (245°C).",
+            "Roll out the pizza dough on a floured surface to your desired thickness.",
+            "Transfer the dough to a baking sheet or pizza stone.",
+            "Spread tomato sauce evenly over the dough.",
+            "Arrange mozzarella slices on top of the sauce.",
+            "Bake in the preheated oven for 10-12 minutes, or until the crust is golden and cheese is bubbly.",
+            "Remove from oven and top with fresh basil leaves and a drizzle of olive oil.",
+            "Slice and serve hot."
+        ]
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "time": "20 minutes",
+        "cuisine": "Chinese",
+        "ingredients": [
+            "2 cups broccoli florets",
+            "1 bell pepper, sliced",
+            "1 carrot, julienned",
+            "1/2 cup snow peas",
+            "2 tbsp soy sauce",
+            "1 tbsp oyster sauce",
+            "1 tsp sesame oil",
+            "1 tbsp vegetable oil",
+            "1 tbsp minced ginger",
+            "2 cloves garlic, minced"
+        ],
+        "steps": [
+            "Mix soy sauce, oyster sauce, and sesame oil in a small bowl.",
+            "Heat vegetable oil in a wok or large skillet over high heat.",
+            "Add garlic and ginger, cooking for 30 seconds until fragrant.",
+            "Add all vegetables and stir-fry for 5-7 minutes until tender-crisp.",
+            "Pour the sauce over the vegetables and toss to coat evenly.",
+            "Serve hot, optionally over rice or noodles."
+        ]
+    },
+    {
+        "name": "Caprese Salad",
+        "time": "10 minutes",
+        "cuisine": "Italian",
+        "ingredients": [
+            "3 large ripe tomatoes, sliced",
+            "250g fresh mozzarella cheese, sliced",
+            "1 bunch fresh basil leaves",
+            "2 tbsp extra virgin olive oil",
+            "1 tbsp balsamic glaze",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "On a large platter, alternate layers of tomato and mozzarella slices.",
+            "Tuck fresh basil leaves between the tomato and cheese slices.",
+            "Drizzle generously with extra virgin olive oil and balsamic glaze.",
+            "Sprinkle with salt and freshly ground black pepper.",
+            "Serve immediately at room temperature."
+        ]
+    },
+    {
+        "name": "Classic Pancakes",
+        "time": "20 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "3 1/2 tsp baking powder",
+            "1 tsp salt",
+            "1 tbsp white sugar",
+            "1 1/4 cups milk",
+            "1 large egg",
+            "3 tbsp butter, melted"
+        ],
+        "steps": [
+            "In a large bowl, sift together the flour, baking powder, salt, and sugar.",
+            "Make a well in the center and pour in the milk, egg, and melted butter; mix until smooth.",
+            "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+            "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+            "Brown on both sides and serve hot with syrup."
+        ]
+    },
+    {
+        "name": "Beef Stroganoff",
+        "time": "30 minutes",
+        "cuisine": "Russian",
+        "ingredients": [
+            "500g beef sirloin, cut into thin strips",
+            "1 large onion, chopped",
+            "250g button mushrooms, sliced",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "1 cup beef broth",
+            "1 cup sour cream",
+            "1 tbsp Dijon mustard",
+            "Salt and black pepper to taste",
+            "Fresh parsley, chopped (for garnish)"
+        ],
+        "steps": [
+            "Melt half the butter in a large skillet over medium-high heat. Brown the beef strips quickly, then remove and set aside.",
+            "In the same skillet, melt the remaining butter. Add the chopped onion and sliced mushrooms, cooking until tender.",
+            "Sprinkle the flour over the mushrooms and onions, stirring constantly for 1 minute.",
+            "Gradually pour in the beef broth, stirring continuously until the sauce thickens and comes to a simmer.",
+            "Reduce the heat to low. Stir in the mustard and sour cream (do not let it boil).",
+            "Return the beef to the skillet and gently warm through for 2-3 minutes.",
+            "Season with salt and pepper, garnish with parsley, and serve hot over egg noodles."
+        ]
+    },
+    {
+        "name": "Pad Thai",
+        "time": "25 minutes",
+        "cuisine": "Thai",
+        "ingredients": [
+            "200g dried flat rice noodles",
+            "2 tbsp vegetable oil",
+            "200g shrimp, peeled and deveined",
+            "2 cloves garlic, minced",
+            "2 large eggs, lightly beaten",
+            "3 tbsp Pad Thai sauce (or a mix of tamarind paste, fish sauce, and sugar)",
+            "1 cup fresh bean sprouts",
+            "2 green onions, sliced into 1-inch pieces",
+            "1/4 cup roasted peanuts, crushed",
+            "1 lime, cut into wedges"
+        ],
+        "steps": [
+            "Soak the rice noodles in warm water for 10-15 minutes until tender but firm, then drain.",
+            "Heat oil in a wok or large pan over high heat. Add shrimp and cook until pink, then remove and set aside.",
+            "Add minced garlic to the pan and stir-fry for 30 seconds.",
+            "Push the garlic to one side of the pan, pour in the beaten eggs, and scramble quickly.",
+            "Add the drained noodles and Pad Thai sauce to the pan, tossing constantly until the noodles are evenly coated and heated through.",
+            "Return the shrimp to the pan, and toss in the bean sprouts and green onions.",
+            "Serve immediately, topped with crushed peanuts and a squeeze of fresh lime juice."
+        ]
+    },
+    {
+        "name": "Greek Salad",
+        "time": "15 minutes",
+        "cuisine": "Greek",
+        "ingredients": [
+            "3 large ripe tomatoes, chopped",
+            "1 cucumber, sliced",
+            "1 red onion, thinly sliced",
+            "1 green bell pepper, sliced",
+            "200g feta cheese, cubed",
+            "1/2 cup Kalamata olives",
+            "2 tbsp extra virgin olive oil",
+            "1 tbsp red wine vinegar",
+            "1 tsp dried oregano",
+            "Salt and black pepper to taste"
+        ],
+        "steps": [
+            "In a large salad bowl, combine the chopped tomatoes, cucumber, red onion, and green bell pepper.",
+            "Add the cubed feta cheese and Kalamata olives to the bowl.",
+            "In a small bowl, whisk together the olive oil, red wine vinegar, dried oregano, salt, and black pepper.",
+            "Pour the dressing over the salad and toss gently to combine.",
+            "Serve immediately or chill for 10-15 minutes before serving."
+        ]
+    },
+    {
+        "name": "Chocolate Brownies",
+        "time": "35 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "1/2 cup unsalted butter, melted",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1 tsp vanilla extract",
+            "1/3 cup unsweetened cocoa powder",
+            "1/2 cup all-purpose flour",
+            "1/4 tsp salt",
+            "1/4 tsp baking powder"
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C). Grease a 9x9 inch baking pan.",
+            "In a medium bowl, mix melted butter and sugar until smooth.",
+            "Add eggs and vanilla extract, and beat until well combined.",
+            "Sift in cocoa powder, flour, salt, and baking powder. Stir until just combined.",
+            "Pour the batter into the prepared baking pan and spread evenly.",
+            "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+            "Allow to cool before cutting into squares and serving."
+        ]
+    },
+    {
+        "name": "kentucky fried chicken",
+        "time": "1 hour 30 minutes",
+        "cuisine": "American",
+        "ingredients": [
+            "1 whole chicken, cut into pieces",
+            "2 cups buttermilk",
+            "2 cups all-purpose flour",
+            "1 tablespoon paprika",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "Vegetable oil for frying"
+        ],
+        "steps": [
+            "In a large bowl, combine the buttermilk and all-purpose flour.",
+            "Add the paprika, garlic powder, onion powder, salt, and black pepper. Mix well.",
+            "Add the chicken pieces to the marinade and coat evenly. Let it marinate for at least 30 minutes.",
+            "Heat vegetable oil in a deep fryer or heavy-bottomed pot to 350°F (175°C).",
+            "Carefully place the marinated chicken pieces in the hot oil and fry for 12-15 minutes or until golden brown and cooked through.",
+            "Remove the fried chicken from the oil and drain on paper towels.",
+            "Serve hot with your favorite sides."
+        ]
+    },
+    {
+        "name": "Ramen",
+        "time": "20 minutes",
+        "cuisine": "Japanese",
+        "ingredients": [
+            "2 cups chicken broth",
+            "2 tablespoons soy sauce",
+            "1 tablespoon mirin",
+            "1 teaspoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 piece fresh ginger, grated",
+            "2 eggs",
+            "1 cup sliced mushrooms",
+            "2 green onions, chopped"
+        ],
+        "steps": [
+            "In a large pot, combine the chicken broth, soy sauce, mirin, and sesame oil.",
+            "Add the garlic and ginger, and bring the mixture to a boil.",
+            "Reduce the heat and simmer for 10 minutes.",
+            "Crack the eggs into the pot and cook until the whites are set but the yolks are still runny.",
+            "Add the mushrooms and green onions, and cook for another 5 minutes.",
+            "Serve hot in bowls and garnish with additional green onions if desired."
+        ]
+    }
+]
